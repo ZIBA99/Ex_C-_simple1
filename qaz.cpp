@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 using namespace  std;
 
@@ -11,10 +11,10 @@ int main()
     cout << "?"<< sum << endl;
 
     return 0;
-}*/
+}
 
 
-/*
+
 #include <iostream>
 
 using namespace  std;
@@ -34,12 +34,12 @@ int main()
 
     cout<<"&num = "<<&num<<endl;
     cout<<"&ref = "<<&ref<<endl;
-    //cout<<"¾È³ç"<<endl;
+    //cout<<"Â¾ÃˆÂ³Ã§"<<endl;
 
     return 0;
-}*/
+}
 
-/*
+
 #include <iostream>
 #include <windows.h>
 
@@ -47,10 +47,10 @@ using namespace std;
 
 int main()
 {
-    SetConsoleOutputCP(65001);  // UTF-8 ÄÜ¼Ö ¼³Á¤
+    SetConsoleOutputCP(65001);  // UTF-8 Ã„ÃœÂ¼Ã– Â¼Â³ÃÂ¤
     cout << u8"qwe" << endl;
     return 0;
-}*/
+}
 
 #include<iostream>
 
