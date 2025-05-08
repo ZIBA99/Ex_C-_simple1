@@ -1,7 +1,7 @@
-//#include <iostream>
-//using namespace std;
+#include <iostream>
+using namespace std;
 
-/*
+
 int main()
 {
     int val1, val2;
@@ -13,18 +13,20 @@ int main()
     cout<<"sum? "<<result<<endl;
     return 0;
 }
-*/
 
-/*int main()
+
+#include <iostream>
+using namespace std;
+int main()
 {
     int i;
     cin >> i;
     cout<<"wwwwwwwwwww";
     cout << i <<endl;
     return 0;
-}*/
+}
 
-/*
+
 #include <iostream>
 #include "qwe.h"
 #include "qwe2.h"
@@ -36,10 +38,10 @@ int main()
     cout << qwe2::x;
     cout << qwe::x << endl;
     return 0;
-}*/
+}
 
 
-/*
+
 int main()
 {
     double i;
@@ -49,9 +51,9 @@ int main()
 
     return 0;
 }
-*/
 
-/*
+
+
 #include <iostream>
 using namespace std;
 
@@ -68,10 +70,10 @@ int main()
     //cout << num1 << "/" << num2 << "=" << result << endl;
 
     return 0;
-}*/
+}
 
-/*
-#include <stdio.h>//¿Ã«ÿ«œ±‚!
+
+#include <stdio.h>//√Ä√å√á√ò√á√è¬±√¢!
 
 int main()
 {
@@ -85,9 +87,9 @@ int main()
     if(x!=-y) printf("4");
 
     return 0;
-}*/
+}
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -105,9 +107,9 @@ int main() {
 
     cout << "After swap: x = " << x << ", y = " << y << endl;
     return 0;
-}*/
+}
 
-/*
+
 #include <stdio.h>
 
 int foo()
@@ -122,9 +124,9 @@ int main()
     for(int i = 0; i<10; i++)
         printf("Resulf #%d : %d\n", i, foo());
     return 0;
-}*/
+}
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -140,9 +142,9 @@ int main()
     a=0;
     cout << "a= "<<a<<endl;
     return 0;
-}*/
+}
 
-/*
+
 #include <iostream>
 
 using namespace  std;
@@ -153,7 +155,7 @@ int main()
     for(i=1;i<10;i++){
         sum += i;
     }
-    cout << "1∫Œ≈Õ 10±Ó¡ˆ¿« «’"<< sum << endl;
+    cout << "1¬∫√é√Ö√ç 10¬±√Æ√Å√∂√Ä√á √á√ï"<< sum << endl;
 
     return 0;
-}*/
+}
